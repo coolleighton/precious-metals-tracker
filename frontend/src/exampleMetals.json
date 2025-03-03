@@ -1,0 +1,44 @@
+[
+  {
+    "itemName": "1oz Gold Britannia",
+    "weight": 31.1,
+    "metalType": "gold",
+    "purchaseDate": "20/10/2023",
+    "purchasePrice": 1850
+  },
+  {
+    "itemName": "1oz Silver Maple Leaf",
+    "weight": 31.1,
+    "metalType": "silver",
+    "purchaseDate": "15/09/2023",
+    "purchasePrice": 28
+  },
+  {
+    "itemName": "10g Gold Bar - Royal Mint",
+    "weight": 10,
+    "metalType": "gold",
+    "purchaseDate": "05/01/2024",
+    "purchasePrice": 580
+  },
+  {
+    "itemName": "100g Silver Bar - PAMP",
+    "weight": 100,
+    "metalType": "silver",
+    "purchaseDate": "02/02/2024",
+    "purchasePrice": 75
+  },
+  {
+    "itemName": "1oz American Gold Eagle",
+    "weight": 31.1,
+    "metalType": "gold",
+    "purchaseDate": "12/11/2023",
+    "purchasePrice": 1870
+  },
+  {
+    "itemName": "1oz Silver Britannia",
+    "weight": 31.1,
+    "metalType": "silver",
+    "purchaseDate": "25/12/2023",
+    "purchasePrice": 30
+  }
+]
