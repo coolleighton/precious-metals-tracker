@@ -16,10 +16,9 @@ const AuthContent: React.FC = () => {
 
   return (
     <div>
-      {/* {data.map((line, index) => (
+      {data.map((line, index) => (
         <p key={index}>{line}</p>
-      ))} */}
-      hello
+      ))}
     </div>
   );
 };
