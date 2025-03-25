@@ -1,5 +1,5 @@
 import { useState } from "react";
-import exampleMetals from "../../src/exampleMetals.json";
+import exampleMetals from "../../exampleMetals.json";
 import MetalsList from "./components/MetalsList";
 import MetalsListHeader from "./components/MetalsListHeader";
 

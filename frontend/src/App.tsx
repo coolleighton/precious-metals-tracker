@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import TrackerPage from "./pages/TrackerPage";
-import LoginPage from "./pages/LoginPage";
+import TrackerPage from "./pages/TrackerPage/TrackerPage";
+import LoginPage from "./pages/LoginPage/LoginPage";
 
 function App() {
   return (
